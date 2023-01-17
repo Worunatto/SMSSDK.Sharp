@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>SMSSDK.Sharp</id>
+    <version>1.0.0</version>
+    <title>SMSSDK.Sharp</title>
+    <authors>Teru</authors>
+    <license type="expression">GPLv3</license>
+    <licenseUrl>https://www.gnu.org/licenses/</licenseUrl>
+    <icon>favicon.png</icon>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/Worunatto/SMSSDK.Sharp</projectUrl>
+    <description>SMSSDK 的 .NET 开源 SDK，基于 .NET Standard 2.0，任何应用程序都能接入</description>
+    <copyright>No Copyright</copyright>
+    <tags>smssdk</tags>
+    <repository type="git" url="https://github.com/Worunatto/SMSSDK.Sharp"/>
+    <dependencies>
+      <group targetFramework="net6.0" />
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+</package>
